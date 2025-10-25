@@ -1,0 +1,42 @@
+:root {
+  /* Theme inspired by the screenshot: dark with neon cyan accent */
+  --bg: #0b0f14;
+  --card: #11161c;
+  --card-border: rgba(255, 255, 255, 0.08);
+  --text: #e6f3ff;
+  --muted: rgba(230, 243, 255, 0.7);
+  --accent: #1fe0e3; /* neon cyan */
+  --accent-2: #8b5cf6; /* soft purple */
+  --success: #5fe39a;
+  --danger: #ff4d6d;
+
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark;
+  color: var(--text);
+  background-color: var(--bg);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(1200px 800px at 10% 0%, rgba(31, 224, 227, 0.06), transparent),
+    radial-gradient(1000px 700px at 90% 20%, rgba(139, 92, 246, 0.06), transparent),
+    var(--bg);
+  color: var(--text);
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Outfit', Inter, system-ui, sans-serif;
+}

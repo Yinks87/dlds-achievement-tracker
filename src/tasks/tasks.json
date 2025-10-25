@@ -1,0 +1,956 @@
+[
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Minecraft",
+    "description": "Überlebe länger in Minecraft als Brammen bei Varo 2",
+    "points": 1,
+    "achievement": "Kopf von Br4mm3n",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Zum Kampf bereit",
+    "description": "Stelle ein beliebiges Schwert her",
+    "points": 1,
+    "achievement": "2 Roheisen",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Sei gewappnet!",
+    "description": "Stelle ein Schild her",
+    "points": 1,
+    "achievement": "2 Roheisen",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Ein echter Holzfäller",
+    "description": "Baue einen Holzstamm mit einer Axt ab",
+    "points": 1,
+    "achievement": "2 Roheisen",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Ein Bündel für jeden Zweck",
+    "description": "Habe ein Bündel im Inventar",
+    "points": 2,
+    "achievement": "3 Gold",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Der erste Schutz",
+    "description": "Schütze dich mit einer vollständigen Eisen-Rüstung",
+    "points": 2,
+    "achievement": "3 Gold",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Besseres Werkzeug",
+    "description": "Stelle eine Diamant-Spitzhacke her",
+    "points": 2,
+    "achievement": "3 Gold",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Schlafen ist für Anfänger",
+    "description": "Bleibe drei komplette Minecraft-Tage wach, ohne zu sterben oder schlafen zu gehen",
+    "points": 5,
+    "achievement": "6 Phantomhäute",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Mach dich feiner",
+    "description": "Schütze dich mit einer vollständigen Diamant-Rüstung",
+    "points": 5,
+    "achievement": "2 Diamanten",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Entzaubert",
+    "description": "Entferne eine Verzauberung mit Hilfe eines Schleifsteins",
+    "points": 5,
+    "achievement": "2 Diamanten",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Ein Retter in der Not",
+    "description": "Habe einen Goldenen Apfel im Inventar",
+    "points": 5,
+    "achievement": "2 Diamanten",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Es funkelt und glitzert überall",
+    "description": "Betrete eine Amethystgeode",
+    "points": 5,
+    "achievement": "3 Lapislazuli",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Im Sande verlaufen",
+    "description": "Betrete einen Wüstentempel",
+    "points": 5,
+    "achievement": "3 Lapislazuli, Dünen-Rüstungsbesatz",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Die Hälfte ist geschafft",
+    "description": "Überlebe 6 Stunden in Minecraft",
+    "points": 10,
+    "achievement": "12 Phantomhäute",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Unheil in der Kammer",
+    "description": "Erhalte den Effekt Drohende Prüfung",
+    "points": 10,
+    "achievement": "3 Diamanten, Bolzen-Rüstungsbesatz",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Das Geheimnis des Dschungels",
+    "description": "Betrete eine Dschungelpyramide",
+    "points": 10,
+    "achievement": "3 Lapislazuli",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Magisches Upgrade",
+    "description": "Verzauber ein Schwert an einem Zaubertisch",
+    "points": 5,
+    "achievement": "2 Diamanten, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Das beste Werkzeug",
+    "description": "Habe eine Netherit-Spitzhacke, die auf Effizienz V verzaubert ist",
+    "points": 15,
+    "achievement": "3 Diamanten, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Die Kammer des Schreckens",
+    "description": "Betrete eine Prüfungskammer",
+    "points": 15,
+    "achievement": "1 Antiker Schrott, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Die Dunkelheit in der Tiefe",
+    "description": "Betrete eine Antike Stätte",
+    "points": 15,
+    "achievement": "1 Antiker Schrott, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Die stärkste Waffe",
+    "description": "Habe einen Streitkolben im Inventar",
+    "points": 15,
+    "achievement": "3 Diamanten, Fluss-Rüstungsbesatz, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "Die Villa im Wald",
+    "description": "Betrete ein Waldanwesen",
+    "points": 15,
+    "achievement": "1 Antiker Schrott, Plagegeist-Rüstungsbesatz, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Minecraft",
+    "title": "I´m a survivor",
+    "description": "Überlebe 11 Stunden, 59 Minuten und 30 Sekunden in Minecraft",
+    "points": 25,
+    "achievement": "Kopf von PietSmiet, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Nether",
+    "description": "Betrete Netherrack",
+    "points": 1,
+    "achievement": "1 Rohgold",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Zuerst gesehen",
+    "description": "Baue Gold ab, während du neben einem Piglin stehst",
+    "points": 2,
+    "achievement": "3 Rohgold",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Ablenkungstaktik",
+    "description": "Erlege einen Piglin, der ein Stück Gold in der Hand hält",
+    "points": 5,
+    "achievement": "3 Rohgold",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Der Klimawandel ruft",
+    "description": "Zünde einen Eisbären im Nether an",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Creme de la Creme",
+    "description": "Stelle einen Magmablock in einer Werkbank her",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Kein Empfang hier",
+    "description": "Platziere einen Blitzableiter im Nether",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Hells Bells",
+    "description": "Läute eine Glocke im Nether",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Ungewollte Spielmechanik",
+    "description": "Lasse ein Bett im Nether explodieren, ohne dabei zu sterben",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Kein Weg zurück",
+    "description": "Zerstöre ein Netherportal, während du dich im Nether befindest",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Blaues Licht",
+    "description": "Habe eine Seelenlaterne im Inventar",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Pilzsammler",
+    "description": "Sammle alle vier Arten von Pilzen",
+    "points": 5,
+    "achievement": "5 Feuersteine",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Hell-oween",
+    "description": "Setze einem Piglin-Barbaren mithilfe eines Werfers einen Kürbis auf",
+    "points": 10,
+    "achievement": "5 Rohgold",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Ein kleines Gastgeschenk",
+    "description": "Schenke einem Piglin ein komplettes Diamant-Rüstungsset",
+    "points": 10,
+    "achievement": "5 Rohgold, Schnauzen-Rüstungsbesatz",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Unerwarteter Begleiter",
+    "description": "Betrete eine Festung auf einem Dromedar",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Undercover Boss",
+    "description": "Zieh dir einen Wither-Skelettkopf in einer Festung auf",
+    "points": 10,
+    "achievement": "1 Enderperle, Rippen-Rüstungsbesatz",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Kein Entkommen",
+    "description": "Markiere eine Kreatur mit einem Spektralpfeil",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Bleib hydriert!",
+    "description": "Setze einen ausgetrockneten Ghast in Wasser",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Schwein gehabt",
+    "description": "Füttere einen Hoglin mit einem Netherpilz",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Dach der Hölle",
+    "description": "Berühre Bedrock auf Höhe 128 im Nether",
+    "points": 10,
+    "achievement": "10 Obsidian, 1 Feuerzeug",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Sporen aus der Hölle",
+    "description": "Lasse einen Riesen-Karmesinpilz und einen Riesen-Wirrpilz mithilfe von Knochenmehl in der Oberwelt wachsen",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Falsch aufgeladen",
+    "description": "Lasse einen Seelenanker in der Oberwelt explodieren, ohne dabei zu sterben",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Nether gonna give you up",
+    "description": "Spiele die Schallplatte \"Tears\" in einem Plattenspieler ab",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Höchste Stufe",
+    "description": "Werte ein Werkzeug an einem Schmiedetisch mit Netherit auf",
+    "points": 10,
+    "achievement": "1 Enderperle",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Geisterbahn",
+    "description": "Setze einen aggressiven Ghast in eine Lore",
+    "points": 20,
+    "achievement": "1 Enderauge",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Richtungsweiser",
+    "description": "Stelle einen Kompass, einen Leitsteinkompass und einen Bergungs-Kompass her",
+    "points": 20,
+    "achievement": "1 Enderauge",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Geologe der Hölle",
+    "description": "Sammle alle Naturblöcke im Nether",
+    "points": 25,
+    "achievement": "2 Goldäpfel",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Höllisch aufgeräumt",
+    "description": "Besiege alle 12 Mobs des Nethers",
+    "points": 25,
+    "achievement": "Netheritaufwertung, 2 Goldäpfel",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Invasive Arten",
+    "description": "Lasse alle 10 Baumarten der Oberwelt mithilfe von Knochenmehl im Nether wachsen",
+    "points": 20,
+    "achievement": "5 Netherwarzen, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Die Verwandlung",
+    "description": "Locke einen Piglin in die Oberwelt und lasse ihn zombifizieren",
+    "points": 15,
+    "achievement": "Netheritaufwertung, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Nether",
+    "title": "Wer hat, der hat",
+    "description": "Platziere einen Netheritblock",
+    "points": 50,
+    "achievement": "3 Goldäpfel, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Das Ende",
+    "description": "Betrete Endstein",
+    "points": 1,
+    "achievement": "1 Smaragd",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Im Auge des Endsturms",
+    "description": "Töte einen Enderman während eines Enderdrachenkampfes",
+    "points": 5,
+    "achievement": "2 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Gekochte Endfrucht",
+    "description": "Habe eine Geplatzte Chorusfrucht im Inventar",
+    "points": 5,
+    "achievement": "2 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Mysteriöse Stehlampe",
+    "description": "Habe einen Endstab im Inventar",
+    "points": 5,
+    "achievement": "2 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Das Gänseblümchen im Wind",
+    "description": "Habe den Statuseffekt Schwebekraft im End",
+    "points": 5,
+    "achievement": "2 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Milbe mit Partikeln",
+    "description": "Töte eine Endermite im End",
+    "points": 10,
+    "achievement": "3 Smaragde, 32 Eichenstamm",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Die falsche Welt",
+    "description": "Platziere einen ausgetrockneten Ghast im End in Wasser",
+    "points": 10,
+    "achievement": "3 Smaragde, 32 Eichenstamm",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Wünsch dir was!",
+    "description": "Wirf einen Goldnugget in einen aktivierten Endbrunnen",
+    "points": 10,
+    "achievement": "3 Smaragde, 32 Eichenstamm",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Die Stadt am Ende des Spiels",
+    "description": "Betrete eine Endsiedlung",
+    "points": 10,
+    "achievement": "Elytren, Turmspitzen-Rüstungsbesatz",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Farbkasten",
+    "description": "Stelle Shulker-Kisten in allen 16 Farben her",
+    "points": 25,
+    "achievement": "2 Antiker Schrott",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Für die Fans",
+    "description": "Zerstöre einen Enderkristall mit einer Schaufel",
+    "points": 25,
+    "achievement": "2 Antiker Schrott",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Kistenception",
+    "description": "Platziere eine Endertruhe, in der sich eine Shulker-Box befindet, in der sich ein Bündel befindet, in dem sich eine Truhe befindet",
+    "points": 10,
+    "achievement": "3 Smaragde, 32 Eichenstamm, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Level up!",
+    "description": "Erreiche Level 50",
+    "points": 25,
+    "achievement": "2 Antiker Schrott, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Das Ende",
+    "title": "Am Abgrund der Welt",
+    "description": "Begib dich auf Höhe -1 im End",
+    "points": 25,
+    "achievement": "2 Antiker Schrott, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Abenteuer",
+    "description": "Erreiche Level 1",
+    "points": 1,
+    "achievement": "1 Schwarzpulver",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Mein neues Zuhause?",
+    "description": "Betrete ein Dorf",
+    "points": 2,
+    "achievement": "2 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Schlaf woanders!",
+    "description": "Verjage einen Dorfbewohner aus seinem Bett",
+    "points": 2,
+    "achievement": "2 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Warum liegt hier Stroh?",
+    "description": "Platziere einen Strohballen",
+    "points": 2,
+    "achievement": "3 Schwarzpulver",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Snob Lifes Matter",
+    "description": "Rüste dich mit Goldschuhen aus",
+    "points": 2,
+    "achievement": "3 Schwarzpulver",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Ich hab den Faden verloren",
+    "description": "Droppe einen Faden aus deinem Inventar",
+    "points": 2,
+    "achievement": "3 Schwarzpulver",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Schmeckt wie Kölsch",
+    "description": "Trinke aus einer Wasserflasche",
+    "points": 2,
+    "achievement": "3 Schwarzpulver",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Warum hast du eine Maske auf?",
+    "description": "Schere einen Schneegolem",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Das Talent der Hacke",
+    "description": "Erhalte Erfahrungspunkte durch das Abbauen von Sculk",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Mit Ruhe und Behutsamkeit",
+    "description": "Platziere eine Sculk-Ader auf einem Wollblock",
+    "points": 5,
+    "achievement": "Warthof-Rüstungsbesatz",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Kaltes Gebräu",
+    "description": "Fülle einen Kessel mit Pulverschnee",
+    "points": 10,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Die Zwerge haben zu tief geschürft",
+    "description": "Berühre Bedrock in der Oberwelt",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Legolas, was sieht dein ... Auge?",
+    "description": "Beobachte einen Creeper durch ein Fernglas",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Mein Schatz!",
+    "description": "Wirf einen Diamanten in Lava",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Früher gabs hier Fische..",
+    "description": "Angel einen Lederstiefel",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Kranplätze müssen verdichtet sein",
+    "description": "Platziere 10 Gerüstblöcke auf einem Steinziegel",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Versteckt in einer Vase",
+    "description": "Verstaue ein Item in einem Verzierten Krug",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "DIY-Feuerwerk",
+    "description": "Zünde eine farbige Feuerwerksrakete bei Nacht",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Eine Truhe am Spawner",
+    "description": "Öffne eine unentdeckte Truhe in einem Verlies",
+    "points": 5,
+    "achievement": "3 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Bares für Rares",
+    "description": "Handle mit einem wandelnden Händler",
+    "points": 10,
+    "achievement": "8 Smaragde, Ozean-Entdeckerkarte",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Willst du einen Schneemann bauen?",
+    "description": "Versehe einen Schneegolem mit dem Nametag „Olaf“",
+    "points": 10,
+    "achievement": "8 Windkugeln",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Herzverpflanzer",
+    "description": "Setze ein Knarzherz in der richtigen Ausrichtung zwischen zwei Blasseichenstämme",
+    "points": 10,
+    "achievement": "8 Windkugeln",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Du hast mir treu gedient",
+    "description": "Lasse einen Amboss durch Übernutzung zerbrechen",
+    "points": 10,
+    "achievement": "15 Eisenbarren",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Bis zur Unendlichkeit",
+    "description": "Verzaubere einen Bogen mit Unendlichkeit",
+    "points": 10,
+    "achievement": "Verzauberter Bogen Reparatur",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Die Kiste im Sand",
+    "description": "Öffne eine unentdeckte vergrabene Truhe",
+    "points": 10,
+    "achievement": "3 Nautilusschalen",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Mein neues Wappen",
+    "description": "Sammle folgende drei Bannervorlagen: Globus, Spickelbord, Mauerung",
+    "points": 15,
+    "achievement": "12 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Zwinkel Zwonkel",
+    "description": "Töte einen Dorfbewohner, während du den Statuseffekt \"Held des Dorfes\" hast",
+    "points": 20,
+    "achievement": "24 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Dein Kopf ist nun mein Kopf",
+    "description": "Erhalte einen beliebigen Kopf durch die Explosion eines geladenen Creepers",
+    "points": 20,
+    "achievement": "Diamantschwert Plünderung I",
+    "finished": false,
+    "type": "Fortschritts"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Die Welt möchte erkundet werden",
+    "description": "Habe alle fünf Entdeckerarten im Inventar",
+    "points": 25,
+    "achievement": "32 Smaragde",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Das ist Kunst, du Banause!",
+    "description": "Platziere alle Gemälde",
+    "points": 25,
+    "achievement": "20 Leder",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Meister der Infanterie",
+    "description": "Schieße mit allen möglichen Pfeilen",
+    "points": 50,
+    "achievement": "Verzauberter Bogen Stärke V",
+    "finished": false,
+    "type": "Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Ja dann..",
+    "description": "Blase in ein Horn, während du dich im Biom „Tiefes Dunkel“ befindest",
+    "points": 10,
+    "achievement": "Stille-Rüstungsbesatz, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Musik in meinen Ohren",
+    "description": "Erhalte die Schallplatte „Lava Chicken“ durch das Töten eines Hühnerreiters und lege sie in einen Plattenspieler ein",
+    "points": 15,
+    "achievement": "12 Leder, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Düsterwald",
+    "description": "Entrinde im Biom 'Blasser Garten' einen Blasseichenstamm bei Regen oder Nacht",
+    "points": 20,
+    "achievement": "64 Blasseichenstamm, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Ein neuer Kopf für dich!",
+    "description": "Setze einem Dorfbewohner mithilfe eines Werfers einen Drachenkopf auf",
+    "points": 25,
+    "achievement": "32 Smaragde, 10 Erfahrungspunkte",
+    "finished": false,
+    "type": "Ziel-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Eine unerwartete Entwicklung",
+    "description": "Verwandle einen Dorfbewohner zu einer Hexe",
+    "points": 25,
+    "achievement": "32 Smaragde, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Das falsche Outfit",
+    "description": "Trage ein vollständiges Rüstungsset, das mit „Fluch der Bindung“ verzaubert ist",
+    "points": 25,
+    "achievement": "20 Leder, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Schmieden mit Stil",
+    "description": "Wende alle Schmiedevorlagen an",
+    "points": 25,
+    "achievement": "4 Netheriterbarren, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  },
+  {
+    "group": "Fortschrittsbaum Abenteuer",
+    "title": "Die Kraft des Meeres sei mit dir!",
+    "description": "Erhalte den Statuseffekt Meereskraft durch einen Aquisator",
+    "points": 25,
+    "achievement": "Dreizack, Gezeiten-Rüstungsbesatz, 25 Erfahrungspunkte",
+    "finished": false,
+    "type": "Aufgaben-Fortschritte"
+  }
+]

@@ -1,3 +1,4 @@
+import React from 'react';
 import styled from '@emotion/styled';
 import { useEffect, useMemo, useState } from 'react';
 import tasksData from '../tasks/tasks.json';

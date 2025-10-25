@@ -4,8 +4,9 @@
     "title": "Minecraft",
     "description": "Überlebe länger in Minecraft als Brammen bei Varo 2",
     "points": 1,
-    "achievement": "Kopf von Br4mm3n",
+    "reward": "Kopf von Br4mm3n",
     "finished": false,
+    "favorite": true,
     "type": "Fortschritte"
   },
   {
@@ -13,8 +14,9 @@
     "title": "Zum Kampf bereit",
     "description": "Stelle ein beliebiges Schwert her",
     "points": 1,
-    "achievement": "2 Roheisen",
+    "reward": "2 Roheisen",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -22,8 +24,9 @@
     "title": "Sei gewappnet!",
     "description": "Stelle ein Schild her",
     "points": 1,
-    "achievement": "2 Roheisen",
+    "reward": "2 Roheisen",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -31,8 +34,9 @@
     "title": "Ein echter Holzfäller",
     "description": "Baue einen Holzstamm mit einer Axt ab",
     "points": 1,
-    "achievement": "2 Roheisen",
+    "reward": "2 Roheisen",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -40,8 +44,9 @@
     "title": "Ein Bündel für jeden Zweck",
     "description": "Habe ein Bündel im Inventar",
     "points": 2,
-    "achievement": "3 Gold",
+    "reward": "3 Gold",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -49,8 +54,9 @@
     "title": "Der erste Schutz",
     "description": "Schütze dich mit einer vollständigen Eisen-Rüstung",
     "points": 2,
-    "achievement": "3 Gold",
+    "reward": "3 Gold",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -58,8 +64,9 @@
     "title": "Besseres Werkzeug",
     "description": "Stelle eine Diamant-Spitzhacke her",
     "points": 2,
-    "achievement": "3 Gold",
+    "reward": "3 Gold",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -67,8 +74,9 @@
     "title": "Schlafen ist für Anfänger",
     "description": "Bleibe drei komplette Minecraft-Tage wach, ohne zu sterben oder schlafen zu gehen",
     "points": 5,
-    "achievement": "6 Phantomhäute",
+    "reward": "6 Phantomhäute",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -76,8 +84,9 @@
     "title": "Mach dich feiner",
     "description": "Schütze dich mit einer vollständigen Diamant-Rüstung",
     "points": 5,
-    "achievement": "2 Diamanten",
+    "reward": "2 Diamanten",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -85,8 +94,9 @@
     "title": "Entzaubert",
     "description": "Entferne eine Verzauberung mit Hilfe eines Schleifsteins",
     "points": 5,
-    "achievement": "2 Diamanten",
+    "reward": "2 Diamanten",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -94,8 +104,9 @@
     "title": "Ein Retter in der Not",
     "description": "Habe einen Goldenen Apfel im Inventar",
     "points": 5,
-    "achievement": "2 Diamanten",
+    "reward": "2 Diamanten",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -103,8 +114,9 @@
     "title": "Es funkelt und glitzert überall",
     "description": "Betrete eine Amethystgeode",
     "points": 5,
-    "achievement": "3 Lapislazuli",
+    "reward": "3 Lapislazuli",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -112,8 +124,9 @@
     "title": "Im Sande verlaufen",
     "description": "Betrete einen Wüstentempel",
     "points": 5,
-    "achievement": "3 Lapislazuli, Dünen-Rüstungsbesatz",
+    "reward": "3 Lapislazuli, Dünen-Rüstungsbesatz",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -121,8 +134,9 @@
     "title": "Die Hälfte ist geschafft",
     "description": "Überlebe 6 Stunden in Minecraft",
     "points": 10,
-    "achievement": "12 Phantomhäute",
+    "reward": "12 Phantomhäute",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -130,8 +144,9 @@
     "title": "Unheil in der Kammer",
     "description": "Erhalte den Effekt Drohende Prüfung",
     "points": 10,
-    "achievement": "3 Diamanten, Bolzen-Rüstungsbesatz",
+    "reward": "3 Diamanten, Bolzen-Rüstungsbesatz",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -139,8 +154,9 @@
     "title": "Das Geheimnis des Dschungels",
     "description": "Betrete eine Dschungelpyramide",
     "points": 10,
-    "achievement": "3 Lapislazuli",
+    "reward": "3 Lapislazuli",
     "finished": false,
+    "favorite": false,
     "type": "Fortschritte"
   },
   {
@@ -148,8 +164,9 @@
     "title": "Magisches Upgrade",
     "description": "Verzauber ein Schwert an einem Zaubertisch",
     "points": 5,
-    "achievement": "2 Diamanten, 10 Erfahrungspunkte",
+    "reward": "2 Diamanten, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
     "type": "Ziel-Fortschritte"
   },
   {
@@ -157,8 +174,9 @@
     "title": "Das beste Werkzeug",
     "description": "Habe eine Netherit-Spitzhacke, die auf Effizienz V verzaubert ist",
     "points": 15,
-    "achievement": "3 Diamanten, 10 Erfahrungspunkte",
+    "reward": "3 Diamanten, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
     "type": "Ziel-Fortschritte"
   },
   {
@@ -166,8 +184,9 @@
     "title": "Die Kammer des Schreckens",
     "description": "Betrete eine Prüfungskammer",
     "points": 15,
-    "achievement": "1 Antiker Schrott, 10 Erfahrungspunkte",
+    "reward": "1 Antiker Schrott, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
     "type": "Ziel-Fortschritte"
   },
   {
@@ -175,8 +194,9 @@
     "title": "Die Dunkelheit in der Tiefe",
     "description": "Betrete eine Antike Stätte",
     "points": 15,
-    "achievement": "1 Antiker Schrott, 10 Erfahrungspunkte",
+    "reward": "1 Antiker Schrott, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
     "type": "Ziel-Fortschritte"
   },
   {
@@ -184,8 +204,9 @@
     "title": "Die stärkste Waffe",
     "description": "Habe einen Streitkolben im Inventar",
     "points": 15,
-    "achievement": "3 Diamanten, Fluss-Rüstungsbesatz, 25 Erfahrungspunkte",
+    "reward": "3 Diamanten, Fluss-Rüstungsbesatz, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -193,8 +214,10 @@
     "title": "Die Villa im Wald",
     "description": "Betrete ein Waldanwesen",
     "points": 15,
-    "achievement": "1 Antiker Schrott, Plagegeist-Rüstungsbesatz, 25 Erfahrungspunkte",
+    "reward": "1 Antiker Schrott, Plagegeist-Rüstungsbesatz, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -202,8 +225,10 @@
     "title": "I´m a survivor",
     "description": "Überlebe 11 Stunden, 59 Minuten und 30 Sekunden in Minecraft",
     "points": 25,
-    "achievement": "Kopf von PietSmiet, 25 Erfahrungspunkte",
+    "reward": "Kopf von PietSmiet, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -211,8 +236,10 @@
     "title": "Nether",
     "description": "Betrete Netherrack",
     "points": 1,
-    "achievement": "1 Rohgold",
+    "reward": "1 Rohgold",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -220,8 +247,10 @@
     "title": "Zuerst gesehen",
     "description": "Baue Gold ab, während du neben einem Piglin stehst",
     "points": 2,
-    "achievement": "3 Rohgold",
+    "reward": "3 Rohgold",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -229,8 +258,10 @@
     "title": "Ablenkungstaktik",
     "description": "Erlege einen Piglin, der ein Stück Gold in der Hand hält",
     "points": 5,
-    "achievement": "3 Rohgold",
+    "reward": "3 Rohgold",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -238,8 +269,10 @@
     "title": "Der Klimawandel ruft",
     "description": "Zünde einen Eisbären im Nether an",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -247,8 +280,10 @@
     "title": "Creme de la Creme",
     "description": "Stelle einen Magmablock in einer Werkbank her",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -256,8 +291,10 @@
     "title": "Kein Empfang hier",
     "description": "Platziere einen Blitzableiter im Nether",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -265,8 +302,10 @@
     "title": "Hells Bells",
     "description": "Läute eine Glocke im Nether",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -274,8 +313,10 @@
     "title": "Ungewollte Spielmechanik",
     "description": "Lasse ein Bett im Nether explodieren, ohne dabei zu sterben",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -283,8 +324,10 @@
     "title": "Kein Weg zurück",
     "description": "Zerstöre ein Netherportal, während du dich im Nether befindest",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -292,8 +335,10 @@
     "title": "Blaues Licht",
     "description": "Habe eine Seelenlaterne im Inventar",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -301,8 +346,10 @@
     "title": "Pilzsammler",
     "description": "Sammle alle vier Arten von Pilzen",
     "points": 5,
-    "achievement": "5 Feuersteine",
+    "reward": "5 Feuersteine",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -310,8 +357,10 @@
     "title": "Hell-oween",
     "description": "Setze einem Piglin-Barbaren mithilfe eines Werfers einen Kürbis auf",
     "points": 10,
-    "achievement": "5 Rohgold",
+    "reward": "5 Rohgold",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -319,8 +368,10 @@
     "title": "Ein kleines Gastgeschenk",
     "description": "Schenke einem Piglin ein komplettes Diamant-Rüstungsset",
     "points": 10,
-    "achievement": "5 Rohgold, Schnauzen-Rüstungsbesatz",
+    "reward": "5 Rohgold, Schnauzen-Rüstungsbesatz",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -328,8 +379,10 @@
     "title": "Unerwarteter Begleiter",
     "description": "Betrete eine Festung auf einem Dromedar",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -337,8 +390,10 @@
     "title": "Undercover Boss",
     "description": "Zieh dir einen Wither-Skelettkopf in einer Festung auf",
     "points": 10,
-    "achievement": "1 Enderperle, Rippen-Rüstungsbesatz",
+    "reward": "1 Enderperle, Rippen-Rüstungsbesatz",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -346,8 +401,10 @@
     "title": "Kein Entkommen",
     "description": "Markiere eine Kreatur mit einem Spektralpfeil",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -355,7 +412,7 @@
     "title": "Bleib hydriert!",
     "description": "Setze einen ausgetrockneten Ghast in Wasser",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
     "type": "Fortschritte"
   },
@@ -364,8 +421,10 @@
     "title": "Schwein gehabt",
     "description": "Füttere einen Hoglin mit einem Netherpilz",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -373,8 +432,10 @@
     "title": "Dach der Hölle",
     "description": "Berühre Bedrock auf Höhe 128 im Nether",
     "points": 10,
-    "achievement": "10 Obsidian, 1 Feuerzeug",
+    "reward": "10 Obsidian, 1 Feuerzeug",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -382,8 +443,10 @@
     "title": "Sporen aus der Hölle",
     "description": "Lasse einen Riesen-Karmesinpilz und einen Riesen-Wirrpilz mithilfe von Knochenmehl in der Oberwelt wachsen",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -391,8 +454,10 @@
     "title": "Falsch aufgeladen",
     "description": "Lasse einen Seelenanker in der Oberwelt explodieren, ohne dabei zu sterben",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -400,8 +465,10 @@
     "title": "Nether gonna give you up",
     "description": "Spiele die Schallplatte \"Tears\" in einem Plattenspieler ab",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -409,8 +476,10 @@
     "title": "Höchste Stufe",
     "description": "Werte ein Werkzeug an einem Schmiedetisch mit Netherit auf",
     "points": 10,
-    "achievement": "1 Enderperle",
+    "reward": "1 Enderperle",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -418,8 +487,10 @@
     "title": "Geisterbahn",
     "description": "Setze einen aggressiven Ghast in eine Lore",
     "points": 20,
-    "achievement": "1 Enderauge",
+    "reward": "1 Enderauge",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -427,8 +498,10 @@
     "title": "Richtungsweiser",
     "description": "Stelle einen Kompass, einen Leitsteinkompass und einen Bergungs-Kompass her",
     "points": 20,
-    "achievement": "1 Enderauge",
+    "reward": "1 Enderauge",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -436,8 +509,10 @@
     "title": "Geologe der Hölle",
     "description": "Sammle alle Naturblöcke im Nether",
     "points": 25,
-    "achievement": "2 Goldäpfel",
+    "reward": "2 Goldäpfel",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -445,8 +520,10 @@
     "title": "Höllisch aufgeräumt",
     "description": "Besiege alle 12 Mobs des Nethers",
     "points": 25,
-    "achievement": "Netheritaufwertung, 2 Goldäpfel",
+    "reward": "Netheritaufwertung, 2 Goldäpfel",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -454,8 +531,10 @@
     "title": "Invasive Arten",
     "description": "Lasse alle 10 Baumarten der Oberwelt mithilfe von Knochenmehl im Nether wachsen",
     "points": 20,
-    "achievement": "5 Netherwarzen, 10 Erfahrungspunkte",
+    "reward": "5 Netherwarzen, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Ziel-Fortschritte"
   },
   {
@@ -463,8 +542,10 @@
     "title": "Die Verwandlung",
     "description": "Locke einen Piglin in die Oberwelt und lasse ihn zombifizieren",
     "points": 15,
-    "achievement": "Netheritaufwertung, 25 Erfahrungspunkte",
+    "reward": "Netheritaufwertung, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -472,8 +553,10 @@
     "title": "Wer hat, der hat",
     "description": "Platziere einen Netheritblock",
     "points": 50,
-    "achievement": "3 Goldäpfel, 25 Erfahrungspunkte",
+    "reward": "3 Goldäpfel, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -481,8 +564,10 @@
     "title": "Das Ende",
     "description": "Betrete Endstein",
     "points": 1,
-    "achievement": "1 Smaragd",
+    "reward": "1 Smaragd",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -490,8 +575,10 @@
     "title": "Im Auge des Endsturms",
     "description": "Töte einen Enderman während eines Enderdrachenkampfes",
     "points": 5,
-    "achievement": "2 Smaragde",
+    "reward": "2 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -499,8 +586,10 @@
     "title": "Gekochte Endfrucht",
     "description": "Habe eine Geplatzte Chorusfrucht im Inventar",
     "points": 5,
-    "achievement": "2 Smaragde",
+    "reward": "2 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -508,8 +597,10 @@
     "title": "Mysteriöse Stehlampe",
     "description": "Habe einen Endstab im Inventar",
     "points": 5,
-    "achievement": "2 Smaragde",
+    "reward": "2 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -517,8 +608,10 @@
     "title": "Das Gänseblümchen im Wind",
     "description": "Habe den Statuseffekt Schwebekraft im End",
     "points": 5,
-    "achievement": "2 Smaragde",
+    "reward": "2 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -526,8 +619,10 @@
     "title": "Milbe mit Partikeln",
     "description": "Töte eine Endermite im End",
     "points": 10,
-    "achievement": "3 Smaragde, 32 Eichenstamm",
+    "reward": "3 Smaragde, 32 Eichenstamm",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -535,8 +630,10 @@
     "title": "Die falsche Welt",
     "description": "Platziere einen ausgetrockneten Ghast im End in Wasser",
     "points": 10,
-    "achievement": "3 Smaragde, 32 Eichenstamm",
+    "reward": "3 Smaragde, 32 Eichenstamm",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -544,8 +641,10 @@
     "title": "Wünsch dir was!",
     "description": "Wirf einen Goldnugget in einen aktivierten Endbrunnen",
     "points": 10,
-    "achievement": "3 Smaragde, 32 Eichenstamm",
+    "reward": "3 Smaragde, 32 Eichenstamm",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -553,8 +652,10 @@
     "title": "Die Stadt am Ende des Spiels",
     "description": "Betrete eine Endsiedlung",
     "points": 10,
-    "achievement": "Elytren, Turmspitzen-Rüstungsbesatz",
+    "reward": "Elytren, Turmspitzen-Rüstungsbesatz",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -562,8 +663,10 @@
     "title": "Farbkasten",
     "description": "Stelle Shulker-Kisten in allen 16 Farben her",
     "points": 25,
-    "achievement": "2 Antiker Schrott",
+    "reward": "2 Antiker Schrott",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -571,8 +674,10 @@
     "title": "Für die Fans",
     "description": "Zerstöre einen Enderkristall mit einer Schaufel",
     "points": 25,
-    "achievement": "2 Antiker Schrott",
+    "reward": "2 Antiker Schrott",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -580,8 +685,10 @@
     "title": "Kistenception",
     "description": "Platziere eine Endertruhe, in der sich eine Shulker-Box befindet, in der sich ein Bündel befindet, in dem sich eine Truhe befindet",
     "points": 10,
-    "achievement": "3 Smaragde, 32 Eichenstamm, 10 Erfahrungspunkte",
+    "reward": "3 Smaragde, 32 Eichenstamm, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Ziel-Fortschritte"
   },
   {
@@ -589,8 +696,10 @@
     "title": "Level up!",
     "description": "Erreiche Level 50",
     "points": 25,
-    "achievement": "2 Antiker Schrott, 25 Erfahrungspunkte",
+    "reward": "2 Antiker Schrott, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -598,8 +707,10 @@
     "title": "Am Abgrund der Welt",
     "description": "Begib dich auf Höhe -1 im End",
     "points": 25,
-    "achievement": "2 Antiker Schrott, 25 Erfahrungspunkte",
+    "reward": "2 Antiker Schrott, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -607,8 +718,10 @@
     "title": "Abenteuer",
     "description": "Erreiche Level 1",
     "points": 1,
-    "achievement": "1 Schwarzpulver",
+    "reward": "1 Schwarzpulver",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -616,8 +729,10 @@
     "title": "Mein neues Zuhause?",
     "description": "Betrete ein Dorf",
     "points": 2,
-    "achievement": "2 Smaragde",
+    "reward": "2 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -625,8 +740,10 @@
     "title": "Schlaf woanders!",
     "description": "Verjage einen Dorfbewohner aus seinem Bett",
     "points": 2,
-    "achievement": "2 Smaragde",
+    "reward": "2 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -634,8 +751,10 @@
     "title": "Warum liegt hier Stroh?",
     "description": "Platziere einen Strohballen",
     "points": 2,
-    "achievement": "3 Schwarzpulver",
+    "reward": "3 Schwarzpulver",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -643,8 +762,10 @@
     "title": "Snob Lifes Matter",
     "description": "Rüste dich mit Goldschuhen aus",
     "points": 2,
-    "achievement": "3 Schwarzpulver",
+    "reward": "3 Schwarzpulver",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -652,8 +773,10 @@
     "title": "Ich hab den Faden verloren",
     "description": "Droppe einen Faden aus deinem Inventar",
     "points": 2,
-    "achievement": "3 Schwarzpulver",
+    "reward": "3 Schwarzpulver",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -661,8 +784,10 @@
     "title": "Schmeckt wie Kölsch",
     "description": "Trinke aus einer Wasserflasche",
     "points": 2,
-    "achievement": "3 Schwarzpulver",
+    "reward": "3 Schwarzpulver",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -670,8 +795,10 @@
     "title": "Warum hast du eine Maske auf?",
     "description": "Schere einen Schneegolem",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -679,8 +806,10 @@
     "title": "Das Talent der Hacke",
     "description": "Erhalte Erfahrungspunkte durch das Abbauen von Sculk",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -688,8 +817,10 @@
     "title": "Mit Ruhe und Behutsamkeit",
     "description": "Platziere eine Sculk-Ader auf einem Wollblock",
     "points": 5,
-    "achievement": "Warthof-Rüstungsbesatz",
+    "reward": "Warthof-Rüstungsbesatz",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -697,8 +828,10 @@
     "title": "Kaltes Gebräu",
     "description": "Fülle einen Kessel mit Pulverschnee",
     "points": 10,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -706,8 +839,10 @@
     "title": "Die Zwerge haben zu tief geschürft",
     "description": "Berühre Bedrock in der Oberwelt",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -715,8 +850,10 @@
     "title": "Legolas, was sieht dein ... Auge?",
     "description": "Beobachte einen Creeper durch ein Fernglas",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -724,8 +861,10 @@
     "title": "Mein Schatz!",
     "description": "Wirf einen Diamanten in Lava",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -733,8 +872,10 @@
     "title": "Früher gabs hier Fische..",
     "description": "Angel einen Lederstiefel",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -742,8 +883,10 @@
     "title": "Kranplätze müssen verdichtet sein",
     "description": "Platziere 10 Gerüstblöcke auf einem Steinziegel",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -751,8 +894,10 @@
     "title": "Versteckt in einer Vase",
     "description": "Verstaue ein Item in einem Verzierten Krug",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -760,8 +905,10 @@
     "title": "DIY-Feuerwerk",
     "description": "Zünde eine farbige Feuerwerksrakete bei Nacht",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -769,8 +916,10 @@
     "title": "Eine Truhe am Spawner",
     "description": "Öffne eine unentdeckte Truhe in einem Verlies",
     "points": 5,
-    "achievement": "3 Leder",
+    "reward": "3 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -778,8 +927,10 @@
     "title": "Bares für Rares",
     "description": "Handle mit einem wandelnden Händler",
     "points": 10,
-    "achievement": "8 Smaragde, Ozean-Entdeckerkarte",
+    "reward": "8 Smaragde, Ozean-Entdeckerkarte",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -787,8 +938,10 @@
     "title": "Willst du einen Schneemann bauen?",
     "description": "Versehe einen Schneegolem mit dem Nametag „Olaf“",
     "points": 10,
-    "achievement": "8 Windkugeln",
+    "reward": "8 Windkugeln",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -796,8 +949,10 @@
     "title": "Herzverpflanzer",
     "description": "Setze ein Knarzherz in der richtigen Ausrichtung zwischen zwei Blasseichenstämme",
     "points": 10,
-    "achievement": "8 Windkugeln",
+    "reward": "8 Windkugeln",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -805,8 +960,10 @@
     "title": "Du hast mir treu gedient",
     "description": "Lasse einen Amboss durch Übernutzung zerbrechen",
     "points": 10,
-    "achievement": "15 Eisenbarren",
+    "reward": "15 Eisenbarren",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -814,8 +971,10 @@
     "title": "Bis zur Unendlichkeit",
     "description": "Verzaubere einen Bogen mit Unendlichkeit",
     "points": 10,
-    "achievement": "Verzauberter Bogen Reparatur",
+    "reward": "Verzauberter Bogen Reparatur",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -823,8 +982,10 @@
     "title": "Die Kiste im Sand",
     "description": "Öffne eine unentdeckte vergrabene Truhe",
     "points": 10,
-    "achievement": "3 Nautilusschalen",
+    "reward": "3 Nautilusschalen",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -832,8 +993,10 @@
     "title": "Mein neues Wappen",
     "description": "Sammle folgende drei Bannervorlagen: Globus, Spickelbord, Mauerung",
     "points": 15,
-    "achievement": "12 Leder",
+    "reward": "12 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -841,8 +1004,10 @@
     "title": "Zwinkel Zwonkel",
     "description": "Töte einen Dorfbewohner, während du den Statuseffekt \"Held des Dorfes\" hast",
     "points": 20,
-    "achievement": "24 Smaragde",
+    "reward": "24 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -850,8 +1015,10 @@
     "title": "Dein Kopf ist nun mein Kopf",
     "description": "Erhalte einen beliebigen Kopf durch die Explosion eines geladenen Creepers",
     "points": 20,
-    "achievement": "Diamantschwert Plünderung I",
+    "reward": "Diamantschwert Plünderung I",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -859,8 +1026,10 @@
     "title": "Die Welt möchte erkundet werden",
     "description": "Habe alle fünf Entdeckerarten im Inventar",
     "points": 25,
-    "achievement": "32 Smaragde",
+    "reward": "32 Smaragde",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -868,8 +1037,10 @@
     "title": "Das ist Kunst, du Banause!",
     "description": "Platziere alle Gemälde",
     "points": 25,
-    "achievement": "20 Leder",
+    "reward": "20 Leder",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -877,8 +1048,10 @@
     "title": "Meister der Infanterie",
     "description": "Schieße mit allen möglichen Pfeilen",
     "points": 50,
-    "achievement": "Verzauberter Bogen Stärke V",
+    "reward": "Verzauberter Bogen Stärke V",
     "finished": false,
+    "favorite": false,
+
     "type": "Fortschritte"
   },
   {
@@ -886,8 +1059,10 @@
     "title": "Ja dann..",
     "description": "Blase in ein Horn, während du dich im Biom „Tiefes Dunkel“ befindest",
     "points": 10,
-    "achievement": "Stille-Rüstungsbesatz, 10 Erfahrungspunkte",
+    "reward": "Stille-Rüstungsbesatz, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Ziel-Fortschritte"
   },
   {
@@ -895,8 +1070,10 @@
     "title": "Musik in meinen Ohren",
     "description": "Erhalte die Schallplatte „Lava Chicken“ durch das Töten eines Hühnerreiters und lege sie in einen Plattenspieler ein",
     "points": 15,
-    "achievement": "12 Leder, 10 Erfahrungspunkte",
+    "reward": "12 Leder, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Ziel-Fortschritte"
   },
   {
@@ -904,8 +1081,10 @@
     "title": "Düsterwald",
     "description": "Entrinde im Biom 'Blasser Garten' einen Blasseichenstamm bei Regen oder Nacht",
     "points": 20,
-    "achievement": "64 Blasseichenstamm, 10 Erfahrungspunkte",
+    "reward": "64 Blasseichenstamm, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Ziel-Fortschritte"
   },
   {
@@ -913,8 +1092,10 @@
     "title": "Ein neuer Kopf für dich!",
     "description": "Setze einem Dorfbewohner mithilfe eines Werfers einen Drachenkopf auf",
     "points": 25,
-    "achievement": "32 Smaragde, 10 Erfahrungspunkte",
+    "reward": "32 Smaragde, 10 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Ziel-Fortschritte"
   },
   {
@@ -922,8 +1103,10 @@
     "title": "Eine unerwartete Entwicklung",
     "description": "Verwandle einen Dorfbewohner zu einer Hexe",
     "points": 25,
-    "achievement": "32 Smaragde, 25 Erfahrungspunkte",
+    "reward": "32 Smaragde, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -931,8 +1114,10 @@
     "title": "Das falsche Outfit",
     "description": "Trage ein vollständiges Rüstungsset, das mit „Fluch der Bindung“ verzaubert ist",
     "points": 25,
-    "achievement": "20 Leder, 25 Erfahrungspunkte",
+    "reward": "20 Leder, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -940,8 +1125,10 @@
     "title": "Schmieden mit Stil",
     "description": "Wende alle Schmiedevorlagen an",
     "points": 25,
-    "achievement": "4 Netheriterbarren, 25 Erfahrungspunkte",
+    "reward": "4 Netheriterbarren, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   },
   {
@@ -949,8 +1136,10 @@
     "title": "Die Kraft des Meeres sei mit dir!",
     "description": "Erhalte den Statuseffekt Meereskraft durch einen Aquisator",
     "points": 25,
-    "achievement": "Dreizack, Gezeiten-Rüstungsbesatz, 25 Erfahrungspunkte",
+    "reward": "Dreizack, Gezeiten-Rüstungsbesatz, 25 Erfahrungspunkte",
     "finished": false,
+    "favorite": false,
+
     "type": "Aufgaben-Fortschritte"
   }
 ]

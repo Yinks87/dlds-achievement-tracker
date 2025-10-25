@@ -49,8 +49,9 @@ const fetchTasks = async () => {
   "title": "Eine unerwartete Entwicklung", // Title for the task element
   "description": "Verwandle einen Dorfbewohner zu einer Hexe", // Task description to display on the task element
   "points": 25, // Points for achievemnt
-  "achievement": "32 Smaragde, 25 Erfahrungspunkte", // Achievement reward
-  "finished": false, // Initial finish state for a task. After usage the states comes from the users localstorage
+  "reward": "32 Smaragde, 25 Erfahrungspunkte", // Achievement reward
+  "finished": false, // Initial finish state for a task. After first change the states comes from the users localstorage
+  "favorite": false, // Initial favorite state for a task. After change the states comes from the users localstorage
   "type": "Aufgaben-Fortschritte" // Task type for sub group creation
 }
 ```

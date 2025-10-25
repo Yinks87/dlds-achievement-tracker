@@ -104,4 +104,4 @@ const fetchTasks = async () => {
 
 ![alt text](/Readme-assets/task.png)
 
-<a style="font-size: 24px;" href='https://dlds-achievement-tacker.netlify.app/'> Try it out </a>
+<a style="font-size: 24px;" target='_blank' href='https://dlds-achievement-tacker.netlify.app/'> Try it out </a>

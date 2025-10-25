@@ -97,6 +97,11 @@ const fetchTasks = async () => {
 - Reset all tasks and settings (layout and stuff) to default
 - <b> THIS COULD NOT BE UNDONE </b>
 
+### Groups / Sub Groups
+
+- Drag and drop the groups and sub groups as you want
+  ![alt text](/Readme-assets/dragndrop.png)
+
 ### Task
 
 - Toggle finish state

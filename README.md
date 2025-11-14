@@ -84,9 +84,9 @@ const fetchTasks = async () => {
 
 #### Layout Buttons
 
-- Change the task layout to grid
+- Change the task layout to list
   ![alt text](/Readme-assets/list.png)
-- or list
+- or grid
   ![alt text](/Readme-assets/grid.png)
 
 #### Collapse / Expand All
